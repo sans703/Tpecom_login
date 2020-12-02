@@ -4,7 +4,7 @@
  <title>LOGIN MULTIUSER PHP</title>
  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body>
+<body style="background-image: url('coba.jpg');">
 
  <h1>Selamat Datang Di Portal Jasa Sulap Ruang <br/> Masuknya Lewat Form Dibawah Ini Ya Guys :D</h1>
 
